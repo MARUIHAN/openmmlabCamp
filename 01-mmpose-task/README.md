@@ -35,7 +35,7 @@
 
 - 预测单张图片结果如下：
 
-  ![img](mmdetection/outputs/vis/myEar.jpg)
+  ![img](mmdetection/outputs/vis/hxsEar.jpg)
 
 ---
 
@@ -48,6 +48,6 @@
 
 - 预测单张图片结果如下：
 
-  ![img](mmpose/outputs/myEar.jpg)
+  ![img](mmpose/outputs/hxsEar.jpg)
 
 
