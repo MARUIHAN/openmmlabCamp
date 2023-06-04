@@ -4,7 +4,7 @@
 
 - [点我：作业介绍](https://github.com/open-mmlab/OpenMMLabCamp/issues/88)
 
-- [点我：作业提交及效果](https://github.com/CrabBoss-lab/openmmlabCamp/tree/master/01-mmpose-task)
+- [点我：提交的作业及效果](https://github.com/CrabBoss-lab/openmmlabCamp/tree/master/01-mmpose-task)
 
 
 
