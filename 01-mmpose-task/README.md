@@ -33,10 +33,13 @@
 
   ![img](&temp/rtmdet_test.jpg)
 
-- 预测单张图片结果如下：
+- 预测图片：
 
   ![img](mmdetection/outputs/vis/hxsEar.jpg)
 
+- 预测视频：
+
+  ![img](&temp/det_my_ear.gif)
 ---
 
 
@@ -46,8 +49,12 @@
 
   ![img](&temp/rtmpose_test.jpg)
 
-- 预测单张图片结果如下：
+- 预测图片：
 
   ![img](mmpose/outputs/hxsEar.jpg)
+
+- 预测视频：
+
+  ![img](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjk5NThjMDBlYjJjYzJjN2E4ODU1ZjFkNDQ2MzYxMTU3N2U5YmM3MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WSDHCCrcMDiQ8k3yjv/giphy-downsized-large.gif)
 
 
